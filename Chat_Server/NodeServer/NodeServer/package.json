@@ -1,0 +1,15 @@
+{
+  "name": "node-server",
+  "version": "0.0.0",
+  "description": "NodeServer",
+  "main": "app.js",
+  "author": {
+    "name": "Thuong"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
